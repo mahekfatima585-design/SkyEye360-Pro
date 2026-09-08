@@ -7,9 +7,8 @@
 AI-powered surveillance software built for Raspberry Pi. Tested 
 for real installs with simulation mode and automated tests.
 
-## Demo Video
 
-<video src="https://raw.githubusercontent.com/mahekfatima585-design/SkyEye360-Pro/07001a673943bb80149d097e65cc05f16a62fa0f/SkyEye360_Sales_EN.mp4" controls width="600"></video>
+[▶️ Watch the demo video](https://raw.githubusercontent.com/mahekfatima585-design/SkyEye360-Pro/07001a673943bb80149d097e65cc05f16a62fa0f/SkyEye360_Sales_EN.mp4)
 
 
 ## Features
